@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="8d956a4bdbe623005e3290c7db961922" sys_domain="global" table="x_snc_conf_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>c1f6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>45f6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>2</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>c5f6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conference_cost</element>
+            <position>3</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>49f6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_required</element>
+            <position>4</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>c9f6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>travel_cost</element>
+            <position>5</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>4df6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>cdf6ff5fdbe623005e3290c7db9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>41f6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>8</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>c1f6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>9</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>45f6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>10</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>c5f6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>11</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>49f6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>c9f6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conference_name</element>
+            <position>13</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>4df6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conference_location</element>
+            <position>14</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>cdf6ff5fdbe623005e3290c7db9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>15</position>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-28 21:32:20</sys_created_on>
+            <sys_id>41f6ff5fdbe623005e3290c7db9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_conf_request" sys_domain="global" view="Default view">8d956a4bdbe623005e3290c7db961922</sys_ui_section>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-28 21:32:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_conf_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-12-27 20:58:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d956a4bdbe623005e3290c7db961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_conf_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Conference Registration" source="x_snc_conf">7fed5e07dbe623005e3290c7db96198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Registration">7fed5e07dbe623005e3290c7db96198d</sys_scope>
+            <sys_update_name>sys_ui_section_8d956a4bdbe623005e3290c7db961922</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-12-27 20:58:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
